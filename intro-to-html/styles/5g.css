@@ -1,0 +1,46 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+.msg-title {
+  font-weight: bold;
+  margin-bottom: 2;
+}
+
+.msg-body {
+  width: 500
+}
+
+.at-author {
+  font-weight: normal;
+  color: rgb(96, 96, 96);
+}
+
+.at-author:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.at-author:active {
+  color: grey
+}
+
+.published-date {
+  font-weight: normal;
+  color:rgb(96, 96, 96)
+}
+
+.at-person {
+  color: rgb(0, 140, 240);
+}
+
+.at-person:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.at-person:active {
+  color: rgba(196, 2, 2, 0.749)
+}
